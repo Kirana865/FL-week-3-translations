@@ -458,7 +458,7 @@ translate french d15s01_cagedecision_a3c5d05f:
 translate french d15s01_cagedecision_3ab92e4b:
 
     # lc "Think about how many people turned up and put out for you the last few days. Think about them."
-    lc "Pensez au nombre de personnes qui sont venues vous chercher ces derniers jours. Pensez à eux."
+    lc "Pensez au nombre de personnes qui sont venues te chercher ces derniers jours. Pensez à eux."
 
 # game/code/d15/d15s01.rpy:420
 translate french d15s01_cagedecision_959126b6:
