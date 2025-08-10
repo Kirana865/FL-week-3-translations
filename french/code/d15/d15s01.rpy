@@ -566,7 +566,7 @@ translate french d15s01_cagedecision_bd88faff:
 translate french d15s01_cagedecision_046a3300:
 
     # lc "Pick one, slap that bad boy on."
-    lc "Choisissez-en un, giflez ce mauvais garçon."
+    lc "Choisissez-en un, gifle ce mauvais garçon."
 
 # game/code/d15/d15s01.rpy:471
 translate french d15s01_cagedecision_bc8b2f36:
@@ -584,7 +584,7 @@ translate french d15s01_cagedecision_34149add:
 translate french d15s01_cagedecision_2cdcc916:
 
     # lc "Think about all the things we could do together if we didn't have to worry about me getting carried away..."
-    lc "Pensez à tout ce que nous pourrions faire ensemble si nous n'avions pas à craindre que je m'emporte..."
+    lc "Penses à tout ce que nous pourrions faire ensemble si nous n'avions pas à craindre que je m'emporte..."
 
 # game/code/d15/d15s01.rpy:480
 translate french d15s01_cagedecision_d7472ea3:
